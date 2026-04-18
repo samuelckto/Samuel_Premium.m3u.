@@ -1,11 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="CDFBasico.cl@SD" tvg-name="FUT BASIC HD" tvg-logo="http://redworld.pro:8880/images/923d09b67d0c49a7f2dfad4772fed797.png" group-title="⚽ FÚTBOL CHILE",TNT Sports Basic
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/430647
-
-#EXTINF:-1 tvg-id="tntsportspremium.cl" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TNT_Sports_Logo.png" group-title="DEPORTES", TNT SPORTS
-http://1a-1791.com/live/gi29le7p/live-hls/cdxf-1wag/chunklist_i1_DVR.m3u8
-
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="" group-title="Deportes MX",Azteca Deportes Premium
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
@@ -13,7 +6,7 @@ https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 #EXTINF:-1 tvg-id="" group-title="Deportes MX",Azteca Deportes Network
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="Deportes MX",TUDN (Server 1)
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="Deportes MX",TUDN
 https://streaming.alwaysdata.net/tudn.php
 
 #EXTINF:-1 tvg-id="LuchaLibreAAA" group-title="Lucha Libre",Lucha Libre AAA
@@ -24,46 +17,4 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
 #EXTINF:-1 tvg-id="FoxDeportes" group-title="Fox Sports",Fox Sports en Español
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WWESuperstar" group-title="WWE",WWE Superstar Central
-https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
-
-# --- ESPN ---
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="DEPORTES", ESPN 3 HD
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/167965
-
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="DEPORTES", ESPN 2 HD
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/167962
-
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="DEPORTES", ESPN 5 HD
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/167732
-
-# --- FOX SPORTS ---
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="DEPORTES", FOX SPORTS 1
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/167734
-
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="DEPORTES", FOX SPORTS 2
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/167735
-
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="DEPORTES", FOX SPORTS 3
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/167736
-
-# --- TUDN & XTRA ---
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="DEPORTES", TUDN
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/167770
-
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="DEPORTES", TUDN XTRA
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/167771
-
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/4b5dbd58c05fa6144858acb4cc3201ea.png" group-title="DEPORTES", DEPORTES TURN | XTRA
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/120548
-
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://yt3.ggpht.com/lwNmuM6cV_kH2dT408Q5HBdKCf7gKM2A7yh_cclROgG5urRy9qvfoSsUhkUZX94xH6rg9m4bAw=ns-nd" group-title="⭐️ NBA Exclusivo ⭐️",NBA TV HD
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/447469
-
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s90143_ll_h3_aa.png" group-title="⭐Ufc-Boxeo-LuchaLibre⭐",WWE NETWORK
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/519018
-
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-name="ESPN 1" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ DEPORTE VIP",ESPN 1
-http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/514017
 
