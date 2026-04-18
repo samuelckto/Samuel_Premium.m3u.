@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CDFBasico.cl@SD" tvg-name="FUT BASIC HD" tvg-logo="http://redworld.pro:8880/images/923d09b67d0c49a7f2dfad4772fed797.png" group-title="⚽ FÚTBOL CHILE",TNT Sports Basic
+http://rlatinop.com:8880/pandusertv0083432/Z7TtUrMB6d9s/430647
+
 #EXTINF:-1 tvg-id="tntsportspremium.cl" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TNT_Sports_Logo.png" group-title="DEPORTES", TNT SPORTS
 http://1a-1791.com/live/gi29le7p/live-hls/cdxf-1wag/chunklist_i1_DVR.m3u8
 
